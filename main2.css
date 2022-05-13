@@ -1,0 +1,148 @@
+p{
+    position: relative;
+    margin-top: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    position: relative;
+    margin-left: 700px  ;
+    margin-top: 20px;
+}
+body{
+    background-color: rgb(30, 30, 30);
+    height: 170vh;
+    width: 200vh;
+    
+}
+.parabola {
+    background: silver; /* Цвет фона */
+    width: 100%;
+    height: 200px;
+    border: 3px solid rgb(255, 255, 255);
+    margin-left: 5px;
+    position: relative;
+    display: block;
+   }
+.kvadrat{
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+}
+.lineynaja{
+    background: silver; /* Цвет фона */
+    width: 100%;
+    height: 200px;
+    border: 3px solid #fff;
+    margin-top: 25px;
+    position: relative;
+    display: block;
+}
+.lineynaya-text{
+    position: relative;
+    margin-left: 625px;
+}
+.line{
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+    margin-left: 5px;
+    
+}
+.line-text{
+    position: relative;
+    margin-left: 600px;
+}
+.proporqia{
+    background: silver; /* Цвет фона */
+    width: 100%;
+    height: 200px;
+    border: 3px solid #fff;
+    margin-top: 20px ;
+    position: relative;
+    display: block;
+    margin-left: 5px;
+}
+.proporqia-text{
+    position: relative;
+    margin-left: 550px;
+}
+.proporqia-img{
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+}
+.cyb{
+    background: silver; /* Цвет фона */
+    width: 100%;
+    height: 200px;
+    border: 3px solid #fff;
+    margin-top: 70px ;
+    position: relative;
+    display: block;
+    margin-left: 5px;
+}
+.cyb-text{
+    position: relative;
+    margin-left: 600px;
+}
+.cyb-img{
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+}
+.koren{
+    background: silver; /* Цвет фона */
+    width: 100%;
+    height: 200px;
+    border: 3px solid #fff;
+    margin-top: 22px ;
+    position: relative;
+    display: block;
+    margin-left: 5px;
+}
+.koren-text{
+    position: relative;
+    margin-left: 600px;
+}
+.koren-img{
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+}
+.modyl{
+    background: silver; /* Цвет фона */
+    width: 100%;
+    height: 200px;
+    border: 3px solid #fff;
+    margin-top: 22px ;
+    position: relative;
+    display: block;
+    margin-left: 5px;
+}
+.modyl-text{
+    position: relative;
+    margin-left: 700px;
+}
+.modyl-img{
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    max-width: 100%;
+}
